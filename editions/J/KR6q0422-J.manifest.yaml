@@ -19,11 +19,11 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0422_000-J.yaml, hash: 'sha256:a5f7ee09f3720bb592c0807c9fb2e013171526776e6f15c52e1ab292a95f69d9'}
+  - {seq: 0, filename: KR6q0422_000-J.yaml, hash: 'sha256:dc7cd6f5c4e2cff99b135c1a8b7bc1964c89877cde69affc7f0c4bff574199e3'}
   - {seq: 1, filename: KR6q0422_001-J.yaml, hash: 'sha256:62902e9823cdbd0b1971eddb9823822620c66efe01b29ed195fab8b77f16e26e'}
   - {seq: 2, filename: KR6q0422_002-J.yaml, hash: 'sha256:de6c39ea1a486c1e4d1b8cbd422fcb34af0ef4999a8984a64cc0eac0408f6bcb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0422_000-J.markers.yaml, hash: 'sha256:662eb5a3b06488618ed672437b731ff7913e006b60cfdfb3ce85f2f5c39c2aee'}
+  - {seq: 0, role: markers, filename: assets/KR6q0422_000-J.markers.yaml, hash: 'sha256:ff33bc559932d9f83cd9239b64a5814ab8e85802fe47d42b0aa7ea0fe5f45211'}
   - {seq: 1, role: markers, filename: assets/KR6q0422_001-J.markers.yaml, hash: 'sha256:fcfc34494c6048866d761730d58a48096b53d7355f79311c1a7e26418ac8e2b7'}
   - {seq: 2, role: markers, filename: assets/KR6q0422_002-J.markers.yaml, hash: 'sha256:587baeafe21b5aa91308598a50c4cfd37f7a7e60fe5c172dea978dfc8a24a0fd'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0422_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0422_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 破山明題辭
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0422_J_000-mulu-3
     span:
-    - front
+    - body
     - 212
     - 212
   label: 嚴大參序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0422_J_000-mulu-4
     span:
-    - front
+    - body
     - 466
     - 466
   label: 目次
@@ -1307,4 +1307,4 @@ table_of_contents:
   label: 行實
   type: mulu
   level: 1
-hash: sha256:e231153b42da01d8cfed0826eafedbb57507997e98000a21f7c52d7388854340
+hash: sha256:53184167ee2a6e17f9c0c67f345ac79928091683f425320fea4fceae5e0eba15

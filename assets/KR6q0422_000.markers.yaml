@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6q0422/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6q0422_J_000-0165a, 'n': 0165a, ed: J, source_xml_id: J28.B203.0165a}
   - {type: line-break, offset: 0, content: '', id: KR6q0422_J_000-0165a01, ed: J, 'n': 0165a01}
   - {type: substitution, offset: 1, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
@@ -228,6 +228,5 @@ markers:
   - {type: line-break, offset: 581, content: '', id: KR6q0422_J_000-0165c30, ed: J, 'n': 0165c30}
   - {type: page-break, offset: 581, content: '', id: KR6q0422_J_000-0166a, 'n': 0166a, ed: J, source_xml_id: J28.B203.0166a}
   - {type: line-break, offset: 581, content: '', id: KR6q0422_J_000-0166a01, ed: J, 'n': 0166a01}
-  body: []
   back: []
-hash: sha256:eafc9b9b748f89b93fbf96a474c9381fde7d636684beddc9a1eeb8a9f742f891
+hash: sha256:62a7f05cdc6f76f390d0032040c246ed8249a64aa32094e4791e80dd9ce0d100
